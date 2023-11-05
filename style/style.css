@@ -161,6 +161,81 @@ h3{
 	margin-bottom: 103px;
 }
 
-.towerpic{
+.footerdiv{
+	width: 100%;
+	height: 201px;
+	background: #243043;
+	display: inline-block;
+	position: relative;
+}
 
+.link{
+	color: #818687;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 14px;
+}
+
+.footerdivchilde{
+	display: inline-block;
+	color: #818687;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 59px;
+	margin-left: 19%;
+	width: 129px;
+	height: 98px;
+}
+
+
+.footerdivchilde2{
+	display: inline-block;
+	color: #818687;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 129px;
+	height: 98px;
+}
+
+.footerdivchilde3{
+	display: inline-block;
+	color: #818687;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 129px;
+	height: 98px;
+	margin-right: ;
+}
+
+.footermsg{
+	display: inline-block;
+	color: #FFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	vertical-align: top;
+	margin-top: 59px;
+	margin-left: 53px;
+}
+
+.GeoLabLogo{
+	width: 38px;
+	height: 40px;
+	position: absolute;
+	top: 58px;
+	right: 138px;
 }
